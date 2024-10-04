@@ -1,11 +1,20 @@
- a Userdatamanger project using HTML, Bootstrap 5, and JavaScript. 
-applaying the concepts of localstorage and built-in validations
-Here's a quick rundown of its features:
 
-✅ Add new users with their details 
+# User Data Manager
 
-✅ View a list of all users with their details in a responsive table.
+### Overview
+A simple web-based app built with **HTML**, **Bootstrap 5**, and **JavaScript** to manage user information using **local storage**.
+It allows users to **add**, **view**, **update**, 
+and **delete** user profiles with built-in validations 
+and profile picture upload functionality.
 
-✅ Update user information or delete users as needed.
+### Key Features
+- Add new users and their details.
+- Display users in a responsive table.
+- Edit or delete user information.
+- Upload and display profile pictures for each user.
 
-✅ Upload profile pictures for each user.
+### Tech Stack
+- **HTML5**
+- **Bootstrap 5**
+- **JavaScript**
+- **Local Storage**
